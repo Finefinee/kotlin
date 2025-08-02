@@ -1,6 +1,6 @@
 fun main() {
     var a: Int = 10 // 변수 값 변경 ㄱㄴ
-    val b : Double = 3.14 // 값 변경 ㄴㄴ
+    val b: Double = 3.14 // 값 변경 ㄴㄴ
     val sum = a + b
 
     if (sum > 10) {
